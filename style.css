@@ -11,13 +11,20 @@ h1{
 
 h2{
   text-align: center;
+  font-size: 2em;
 
 }
 
 p{
-  font-size: 1.3em
+  font-size: 1.3em;
 }
 
-a{
-  text-align:center;
+img {
+  border-radius: 20px;
+  border: 5px solid red;
+  width: 20%;
+}
+
+h3{
+  font-size:2em;
 }
